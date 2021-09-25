@@ -7,4 +7,3 @@ url = s.cuttly.short(urltbs)
 print(url)
 pyperclip.copy(url)
 print('URL has been automatically copied to the clipboard')
-
