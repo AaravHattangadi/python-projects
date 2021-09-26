@@ -23,7 +23,7 @@ elif promptCon == "Add Password":
 elif promptCon == "Read Password":
     func.readpassMAS()
 
-elif promptCon == "Delete Password"
+elif promptCon == "Delete Password":
     func.deletepassMAS()
 
 elif promptCon == "Generate Password":
