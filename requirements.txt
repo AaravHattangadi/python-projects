@@ -1,0 +1,8 @@
+gTTS==2.2.3
+pyperclip==1.8.2
+pyshorteners==1.0.1
+pytube==10.4.1
+phonenumbers==8.12.31
+cryptography==3.3.1
+PyInquirer==1.0.3
+secrets==1.0.2
