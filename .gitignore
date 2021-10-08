@@ -1,3 +1,6 @@
 /passman/db/
-/passman/__pycache/
+/passman/__pycache__/
+/__pycache__
+/.git
 /.unfinished
+*.mp3

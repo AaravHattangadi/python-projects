@@ -146,7 +146,7 @@ def deletepassMAS():
                 if(os.path.exists("db" + pasName + ".mpf")):
                     print("Password has been deleted")
                 else:
-                    raise ValueError("Unknown Error: Password Cannot be Deleted.")
+                    exit()
 
             else:
                 raise ValueError("Path does not exist")
