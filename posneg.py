@@ -12,4 +12,4 @@ elif(numint<0):
     print(num, 'is a negative integer')
 
 else:
-    print('err')
+    print('An exception has occured at posneg.py 15:5')
